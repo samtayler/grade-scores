@@ -1,0 +1,8 @@
+E:\git\transmax\grade-scores\bin\Debug\grade-scores.exe.config
+E:\git\transmax\grade-scores\bin\Debug\grade-scores.exe
+E:\git\transmax\grade-scores\bin\Debug\grade-scores.pdb
+E:\git\transmax\grade-scores\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\git\transmax\grade-scores\bin\Debug\nunit.framework.dll
+E:\git\transmax\grade-scores\bin\Debug\nunit.framework.xml
+E:\git\transmax\grade-scores\obj\Debug\grade-scores.exe
+E:\git\transmax\grade-scores\obj\Debug\grade-scores.pdb
