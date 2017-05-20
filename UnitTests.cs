@@ -52,6 +52,21 @@ namespace gradescores
         }
 
         [Test]
+        public void NameAndScoreEqualityTest()
+        {
+            NameAndScore n1 = new NameAndScore("a", "b", 0);
+            NameAndScore n5 = new NameAndScore("a", "b", 0);
+            NameAndScore n2 = new NameAndScore("a", "c", 0);
+            NameAndScore n3 = new NameAndScore("d", "b", 0);
+            NameAndScore n4 = new NameAndScore("a", "b", 1);            
+
+            Assert.IsFalse(n1.Equals(n2));
+            Assert.IsFalse(n1.Equals(n3));
+            Assert.IsFalse(n1.Equals(n4));
+            Assert.IsTrue(n1.Equals(n5));
+        }       
+
+        [Test]
         public void SortingTest()
         {
             var rawList = new List<NameAndScore>()

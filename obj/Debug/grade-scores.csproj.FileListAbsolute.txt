@@ -6,3 +6,12 @@ E:\git\transmax\grade-scores\bin\Debug\nunit.framework.dll
 E:\git\transmax\grade-scores\bin\Debug\nunit.framework.xml
 E:\git\transmax\grade-scores\obj\Debug\grade-scores.exe
 E:\git\transmax\grade-scores\obj\Debug\grade-scores.pdb
+C:\Users\sam\Source\Repos\grade-scores\bin\Debug\grade-scores.exe.config
+C:\Users\sam\Source\Repos\grade-scores\bin\Debug\grade-scores.exe
+C:\Users\sam\Source\Repos\grade-scores\bin\Debug\grade-scores.pdb
+C:\Users\sam\Source\Repos\grade-scores\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sam\Source\Repos\grade-scores\bin\Debug\nunit.framework.dll
+C:\Users\sam\Source\Repos\grade-scores\bin\Debug\nunit.framework.xml
+C:\Users\sam\Source\Repos\grade-scores\obj\Debug\grade-scores.csprojResolveAssemblyReference.cache
+C:\Users\sam\Source\Repos\grade-scores\obj\Debug\grade-scores.exe
+C:\Users\sam\Source\Repos\grade-scores\obj\Debug\grade-scores.pdb
